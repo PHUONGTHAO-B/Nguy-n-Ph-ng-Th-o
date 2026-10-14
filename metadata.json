@@ -1,0 +1,6 @@
+{
+  "name": "Luyện lập trình Python – Tin học THPT",
+  "description": "Nền tảng luyện lập trình Python dành cho học sinh THPT và giáo viên với trình tạo bài tập bằng Gemini, chấm điểm tự động bằng Pyodide WebAssembly và nhận xét thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
